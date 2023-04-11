@@ -2,6 +2,7 @@
 //Concatenate two numbers
 
 //User function Template for C++
+
 class Solution{
     public:
     long long countPairs(int N, int X, vector<int> numbers){
