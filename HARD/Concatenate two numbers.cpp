@@ -1,5 +1,5 @@
 //https://practice.geeksforgeeks.org/problems/1df2447c003940512562d766cf0583bbdc7a75ed/0
-//Concatenate two numbers\
+//Concatenate two numbers
 
 //User function Template for C++
 class Solution{
