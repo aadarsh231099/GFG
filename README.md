@@ -5,7 +5,7 @@ GFG Profile Link:-https://auth.geeksforgeeks.org/user/aadarshhanu23/practice/
 
 # Total Problems Solved : 144
 ### (Counted from 17/08/2021 - Current date)
-Overall Coding Score : 265
+Overall Coding Score : 383
  
 
 |  #  |  Difficulty | Problems Solved  
