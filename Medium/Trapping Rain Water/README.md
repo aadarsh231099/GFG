@@ -1,4 +1,4 @@
-<h2><a href="https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1?page=1&status[]=solved&sortBy=submissions">Trapping Rain Water</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given an array <strong>arr[]</strong>&nbsp;of <strong>N</strong> non-negative integers representing the height of blocks. If&nbsp;width of each block is 1, compute how much water can be trapped&nbsp;between the blocks during the rainy season.&nbsp;</span><br>
+<h2><a href="https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/0">Trapping Rain Water</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given an array <strong>arr[]</strong>&nbsp;of <strong>N</strong> non-negative integers representing the height of blocks. If&nbsp;width of each block is 1, compute how much water can be trapped&nbsp;between the blocks during the rainy season.&nbsp;</span><br>
 &nbsp;</p>
 
 <p><span style="font-size:18px"><strong>Example 1:</strong></span></p>
