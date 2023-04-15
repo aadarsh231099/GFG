@@ -9,7 +9,6 @@ using namespace std;
 class Solution{
 public:	
 	
-	
 	int isPalindrome(string S)
 	{
 	    // Your code goes here
